@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#pro{
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: bisque;
+}
+
+#pro .container .rslt{
+    margin: 7px 7px;
+    text-align: center;
+    padding: 15px 0;
+    background-color: rgb(43, 223, 226);
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+#pro .container .btn .inc{
+    padding: 5px 10px;
+    border-color:blueviolet ;
+    background-color: wheat;
+}
+#pro .container .btn .dec{
+    padding: 5px 10px;
+    border-color: blueviolet;
+    background-color: wheat;
+}
+
+
+
+
+/* 2nd project */
+#color{
+    background-color: rgb(250, 215, 245);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+#color .container .colorGenarator{
+    margin: 7px 7px;
+    text-align: center;
+    padding: 100px 200px;
+    background-color: rgb(43, 223, 226);
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+#color .container .but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 10px;
+
+}
+
+
+.newColor{
+    padding: 8px 10px;
+    border-color: blueviolet;
+}
+
+/* 2nd project End */
+
